@@ -1,0 +1,17 @@
+{
+  "name": "Clase 5°2",
+  "short_name": "5°2",
+  "description": "Página del curso 5°2: materias, temas, trabajos y horario.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a0d10",
+  "theme_color": "#2a1419",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
